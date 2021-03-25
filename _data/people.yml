@@ -1,0 +1,33 @@
+- name: "Project Leader"
+  list:
+  - name: Vijay Ganesh
+    link: https://ece.uwaterloo.ca/~vganesh/
+    affiliation: University of Waterloo
+- name: "Contributors"
+  list:
+  - name: Chunxiao Li
+    affiliation: University of Waterloo
+  - name: Noah Fleming
+    link: https://www.cs.toronto.edu/~noahfleming/
+    affiliation: University of Toronto
+  - name: Marc Vinyals
+    link: http://www.csc.kth.se/~vinyals/
+    affiliation: Technion
+  - name: Toniann Pitassi
+    link: https://www.cs.toronto.edu/~toni/
+    affiliation: University of Toronto
+  - name: Jimmy Liang
+    link: https://www.linkedin.com/in/jimmy-liang-0a121819/?originalSubdomain=ca
+    affiliation: University of Waterloo
+  - name: Ruben Martins
+    link: https://sat-group.github.io/ruben/
+    affiliation: Carnegie Mellon University
+  - name: Robert Robere
+    link: https://www.cs.toronto.edu/~robere/
+    affiliation: University of Toronto
+  - name: Christoph M. Wintersteiger
+    link: https://www.microsoft.com/en-us/research/people/cwinter/
+    affiliation: Microsoft Research
+  - name: Ed Zulkoski
+    link: https://www.linkedin.com/in/ed-zulkoski-7a002b91/
+    affiliation: University of Waterloo
