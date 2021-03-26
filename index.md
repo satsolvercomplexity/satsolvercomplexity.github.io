@@ -11,11 +11,3 @@ Our line of work follows along 4 main lines of reasoning:
 * Deriving parameterized complexity upper bounds to demonstrate how certain measures of formulas relate to hardness;
 * Characterizing SAT/SMT solvers through the lens of machine learning;
 * Improving our understanding of encodings and reductions of formulas.
-
-# News
-* MapleSAT is now the default SAT solver used in the computer algebra system [Maple 2018](https://www.maplesoft.com/products/maple/new_features/maple2018/performance.aspx).
-* MapleCOMSPS won 2nd in the [SAT Competition 2017](https://baldur.iti.kit.edu/sat-competition-2017/index.php?cat=results) Main track and No-limits track!
-* MapleCOMSPS won 1st in the [SAT Competition 2016](http://baldur.iti.kit.edu/sat-competition-2016/index.php?cat=results) Main track and 2nd in the Application category!
-* MapleCOMSPS_LRB won 1st in the [SAT Competition 2016](http://baldur.iti.kit.edu/sat-competition-2016/index.php?cat=results) Application category!
-
-[![SAT Competition 2016 medals](assets/2016SATCompMedal.jpg)](assets/2016SATCompMedal.jpg)
