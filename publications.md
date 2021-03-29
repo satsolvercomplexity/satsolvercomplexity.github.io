@@ -12,8 +12,8 @@ layout: default
 {% endcapture %}
 
 * **{{ item.title }}**  
-	{{ item.authors }}  
-	{{ item.pub-type }} {% if item.date %}   
+	{{ item.authors }} {% if item.pub-type %}  
+	{{ item.pub-type }} {% endif %} {% if item.date %}   
 	{{ item.date }} {% endif %} {% if item.award %}  
 	**{{ item.award }}** {% endif %}  
 	{{ links }}	{% if item.note %}  

@@ -1,3 +1,6 @@
+- title: On the Hierarchical Community Structure of Practical SAT Formulas
+  authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
+  pdf: https://satcomplexity.github.io/hcs/assets/On_the_HCS_of_Practical_SAT_Formulas.pdf
 - title: Towards a Complexity-theoretic Understanding of Restarts in SAT solvers
   authors: Chunxiao Li, Noah Fleming, Marc Vinyals, Toniann Pitassi, Vijay Ganesh
   pub-type: The 23rd International Conference on Theory and Applications of Satisfiability Testing (**SAT 2020**)
