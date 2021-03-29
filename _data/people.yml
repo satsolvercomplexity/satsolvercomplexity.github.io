@@ -5,26 +5,33 @@
     affiliation: University of Waterloo
 - name: "Contributors"
   list:
-  - name: Chunxiao Li
+  - name: Jonathan Chung
+    link: https://jonathanchung.xyz/
     affiliation: University of Waterloo
   - name: Noah Fleming
     link: https://www.cs.toronto.edu/~noahfleming/
     affiliation: University of Toronto
-  - name: Marc Vinyals
-    link: http://www.csc.kth.se/~vinyals/
-    affiliation: Technion
-  - name: Toniann Pitassi
-    link: https://www.cs.toronto.edu/~toni/
-    affiliation: University of Toronto
+  - name: Chunxiao Li
+    affiliation: University of Waterloo
   - name: Jimmy Liang
     link: https://www.linkedin.com/in/jimmy-liang-0a121819/?originalSubdomain=ca
     affiliation: University of Waterloo
   - name: Ruben Martins
     link: https://sat-group.github.io/ruben/
     affiliation: Carnegie Mellon University
+  - name: Alice Mu
+    affiliation: University of Waterloo
+  - name: Soham Mukherjee
+    affiliation: University of Waterloo; Perimeter Institute
+  - name: Toniann Pitassi
+    link: https://www.cs.toronto.edu/~toni/
+    affiliation: University of Toronto
   - name: Robert Robere
     link: https://www.cs.toronto.edu/~robere/
     affiliation: University of Toronto
+  - name: Marc Vinyals
+    link: http://www.csc.kth.se/~vinyals/
+    affiliation: Technion
   - name: Christoph M. Wintersteiger
     link: https://www.microsoft.com/en-us/research/people/cwinter/
     affiliation: Microsoft Research
