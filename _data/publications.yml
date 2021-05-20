@@ -1,29 +1,35 @@
 - title: On the Hierarchical Community Structure of Practical SAT Formulas
   authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
-  pdf: https://satcomplexity.github.io/hcs/assets/On_the_HCS_of_Practical_SAT_Formulas.pdf
+  pdf: https://arxiv.org/pdf/2103.14992.pdf
+  bib: https://dblp.uni-trier.de/rec/journals/corr/abs-2103-14992.html?view=bibtex
 - title: Towards a Complexity-theoretic Understanding of Restarts in SAT solvers
   authors: Chunxiao Li, Noah Fleming, Marc Vinyals, Toniann Pitassi, Vijay Ganesh
   pub-type: The 23rd International Conference on Theory and Applications of Satisfiability Testing (**SAT 2020**)
   pdf: https://drive.google.com/file/d/1dyGsqh6_v67VCfW92Au76h5pzGArMwkJ/view?usp=sharing
+  bib: https://dblp.org/rec/conf/sat/LiFVPG20.html?view=bibtex
   slides: https://drive.google.com/file/d/11UW9Lgt4aZNrMMs6qniRi8Z00Mo58hWG/view?usp=sharing
   talk: https://drive.google.com/file/d/1eOxUdd1cAZ-YBMBkehQx8UAZH3pHqR_s/view?usp=sharing
 - title: The Proof Complexity of SMT Solvers
   authors: Robert Robere, Antonina Kolkolova, and Vijay Ganesh
   pub-type: 30th International Conference on Computer Aided Verification (**CAV 2018**)
   pdf: https://drive.google.com/file/d/1dyGsqh6_v67VCfW92Au76h5pzGArMwkJ/view?usp=sharing
+  bib: https://dblp.org/rec/conf/cav/RobereKG18.html?view=bibtex
   slides: https://drive.google.com/open?id=1ICJzFWU9sAD9YXKTM1TxGogZlSPf1m8y
 - title: Learning-Sensitive Backdoors with Restarts
   authors: Edward Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Robert Robere, Jia Liang, Krzysztof Czarnecki and Vijay Ganesh
   pub-type: 24th International Conference on Principles and Practice of Constraint Programming (**CP 2018**)
   date: August 27, 2018
   pdf: https://drive.google.com/open?id=1oUc2bV-7mVxUDFKw3gQeDrBLk7wWpSbz
+  bib: https://dblp.org/rec/conf/cp/ZulkoskiMWRLCG18.html?view=bibtex
 - title: The Effect of Structural Measures and Merges on SAT Solver Performance
   authors: Edward Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Jia Liang, Krzysztof Czarnecki and Vijay Ganesh
   pub-type: 24th International Conference on Principles and Practice of Constraint Programming (CP 2018)
   date: August 27, 2018
   pdf: https://drive.google.com/open?id=1VxkZ9Yd5iiX7iJJll3O3ZKQQK_JcU3Re
+  bib: https://dblp.org/rec/conf/cp/ZulkoskiMWLCG18.html?view=bibtex
 - title: Empirically Relating Complexity-theoretic Parameters with SAT Solver Performance
   authors: Edward Zulkoski, Ruben Martins, Christoph M. Wintersteiger, Robert Robere, Jia Liang, Krzysztof Czarnecki and Vijay Ganesh
   pub-type: Pragmatics of Constraint Reasoning (PoCR 2017)
   date: August 28, 2017
   pdf: https://drive.google.com/open?id=1Bexf9Usv1GNadCXebWynQmAPwrTpSTT5
+  bib: https://dblp.org/rec/journals/corr/ZulkoskiMWRLCG17.html?view=bibtex
