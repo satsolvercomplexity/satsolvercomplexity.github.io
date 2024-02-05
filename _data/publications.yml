@@ -1,9 +1,23 @@
+- title: Understanding and Improving SAT Solvers via Proof Complexity and Reinforcement Learning
+  authors: Chunxiao Li
+  pub-type: PhD thesis
+  pdf: https://uwspace.uwaterloo.ca/bitstream/handle/10012/20173/Li_Chunxiao.pdf?sequence=3&isAllowed=y
+  bib: https://scholar.googleusercontent.com/scholar.bib?q=info:s4XZQf194IgJ:scholar.google.com/&output=citation&scisdr=ClExCJoBEPDDiRU9dMA:AFWwaeYAAAAAZbk7bMCS6_SU_pT-Hzv4ohiFbto&scisig=AFWwaeYAAAAAZbk7bAIeo5TAzrJenFa4UnKxzsk&scisf=4&ct=citation&cd=-1&hl=en
+- title: Limits of CDCL Learning via Merge Resolution
+  authors: Marc Vinyals, Chunxiao Li, Noah Fleming, Antonina Kolokolova, Vijay Ganesh
+  pub-type: The 26th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2023**)
+  pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.27/LIPIcs.SAT.2023.27.pdf
+  bib: https://dblp.org/rec/conf/sat/Vinyals0FKG23.html?view=bibtex
+- title: Learning shorter redundant clauses in SDCL using MaxSAT
+  authors: Albert Oliveras, Chunxiao Li, Darryl Wu, Jonathan Chung, Vijay Ganesh
+  pub-type: The 26th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2023**)
+  pdf: https://drops.dagstuhl.de/storage/00lipics/lipics-vol271-sat2023/LIPIcs.SAT.2023.18/LIPIcs.SAT.2023.18.pdf
+  bib: https://dblp.org/rec/conf/sat/Oliveras0W0G23.html?view=bibtex
 - title: On the Hierarchical Community Structure of Practical SAT Formulas
   authors: Chunxiao Li, Jonathan Chung, Soham Mukherjee, Marc Vinyals, Noah Fleming, Antonina Kolokolova, Alice Mu, and Vijay Ganesh
+  pub-type: The 24th International Conference on Theory and Applications of Satisfiability Testing (**SAT 2021**)
   pdf: https://arxiv.org/pdf/2103.14992.pdf
   bib: https://dblp.uni-trier.de/rec/journals/corr/abs-2103-14992.html?view=bibtex
-  slides: https://drive.google.com/file/d/1o8WDqOs5KjWXT3BglDZd2JlmpeL05FeD/view?usp=sharing
-  talk: https://drive.google.com/file/d/1v9IQXC0tVqRm9D6El5mbw7wn-aqMyISd/view?usp=sharing
 - title: Towards a Complexity-theoretic Understanding of Restarts in SAT solvers
   authors: Chunxiao Li, Noah Fleming, Marc Vinyals, Toniann Pitassi, Vijay Ganesh
   pub-type: The 23rd International Conference on Theory and Applications of Satisfiability Testing (**SAT 2020**)

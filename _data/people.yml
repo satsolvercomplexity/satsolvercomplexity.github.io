@@ -23,6 +23,9 @@
     affiliation: University of Waterloo
   - name: Soham Mukherjee
     affiliation: University of Waterloo; Perimeter Institute
+  - name: Albert Oliveras
+    link: https://www.cs.upc.edu/~oliveras/
+    affiliation: Technical University of Catalonia
   - name: Toniann Pitassi
     link: https://www.cs.toronto.edu/~toni/
     affiliation: University of Toronto
@@ -35,6 +38,8 @@
   - name: Christoph M. Wintersteiger
     link: https://www.microsoft.com/en-us/research/people/cwinter/
     affiliation: Microsoft Research
+  - name: Darryl Wu
+    affiliation: University of Waterloo
   - name: Ed Zulkoski
     link: https://www.linkedin.com/in/ed-zulkoski-7a002b91/
     affiliation: University of Waterloo
