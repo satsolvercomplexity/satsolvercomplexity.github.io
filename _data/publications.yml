@@ -25,6 +25,11 @@
   bib: https://dblp.org/rec/conf/sat/LiFVPG20.html?view=bibtex
   slides: https://drive.google.com/file/d/11UW9Lgt4aZNrMMs6qniRi8Z00Mo58hWG/view?usp=sharing
   talk: https://drive.google.com/file/d/1eOxUdd1cAZ-YBMBkehQx8UAZH3pHqR_s/view?usp=sharing
+- title: Understanding and Enhancing CDCL-based SAT Solvers
+  authors: Edward Zulkoski
+  pub-type: PhD thesis (**2018**)
+  pdf: https://uwspace.uwaterloo.ca/bitstream/handle/10012/13525/Zulkoski_Edward.pdf?sequence=3&isAllowed=y
+  bib: https://dblp.org/rec/phd/basesearch/Zulkoski18.html?view=bibtex
 - title: The Proof Complexity of SMT Solvers
   authors: Robert Robere, Antonina Kolkolova, and Vijay Ganesh
   pub-type: 30th International Conference on Computer Aided Verification (**CAV 2018**)
